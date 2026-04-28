@@ -5,7 +5,7 @@
 
 **Autor:** Witczak Sanabria, M. N.  
 **Materia:** INF-220 Estructuras de Datos I  
-**Docente:** Peña, J. C.  
+**Docente:** Peinado, J. C.  
 **Institucion:** Universidad Autonoma Gabriel Rene Moreno  
 **Año:** 2026  
 
