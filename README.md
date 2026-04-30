@@ -125,4 +125,4 @@ Suma(2) = 89.000000
 ## Curso
 
 INF-220 Estructuras de Datos I  
-Docente: Ing. Juan Carlos Pena
+Docente: Ing. Peinado
